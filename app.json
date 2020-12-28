@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "CurrencyConverter",
     "slug": "CurrencyConverter",
     "privacy": "public",
     "platforms": [
@@ -27,6 +27,8 @@
     },
     "androidStatusBar": {
       "translucent": false
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/teghdeep/Currency_Converter"
   }
 }
